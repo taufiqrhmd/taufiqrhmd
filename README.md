@@ -31,9 +31,9 @@ Saya adalah seorang **Frontend Developer** yang bersemangat dalam mengubah desai
 
 ### 📊 Statistik GitHub (Dark Mode)
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taufiqrhmd&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taufiqrhmd&layout=compact&theme=dark&hide_langs_below=1" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=taufiqrhmd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=taufiqrhmd&theme=tokyonight" />
 </p>
 
 <p align="center">
