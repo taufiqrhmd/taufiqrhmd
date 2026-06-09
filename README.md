@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=header&text=Mohamad%20Taufiq%20Rahmadi&subtitle=Frontend%20Engineer%20%7C%20Full-Stack%20%26%20AI/ML%20Enthusiast&fontSize=32&subFontSize=18&fontColor=ffffff&subFontColor=8b949e" width="100%" alt="Taufiq's Banner" />
+  <img src="./assets/banner.png" width="100%" alt="Mohamad Taufiq Rahmadi - Pixel Art Header" />
 </p>
 
 ## 🚀 About Me
