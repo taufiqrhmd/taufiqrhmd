@@ -22,7 +22,7 @@ While my core specialization lies in crafting seamless, pixel-perfect user exper
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,vue,nuxt,php,laravel,supabase,mysql,postgres,dart,flutter,py,figma,git,github,discord&theme=dark" alt="Taufiq's Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,vue,nuxt,react,next,php,laravel,supabase,mysql,postgres,dart,flutter,py,figma,git,github,discord&theme=dark" alt="Taufiq's Tech Stack" />
   </a>
 </p>
 
