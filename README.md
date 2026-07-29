@@ -39,7 +39,7 @@
 
 <div align="center">
   <a href="https://github.com/taufiqrhmd">
-    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=taufiqrhmd&show_icons=true&theme=tokyonight&hide_border=true" alt="Taufiq's GitHub Stats" />
+    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=taufiqrhmd&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Taufiq's GitHub Stats" />
   </a>
   <a href="https://github.com/taufiqrhmd">
     <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=taufiqrhmd&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide_langs_repository=template" alt="All Languages" />
