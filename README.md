@@ -3,7 +3,7 @@
 # 👨‍💻 Hi there, I'm Mohamad Taufiq Rahmadi
 
 > **23 Y.O | Frontend Engineer** <br>
-> An adaptable Frontend and Mobile Developer with over 2 years of experience in building high-quality web and mobile applications. Proficient in frameworks such as Nuxt.js, React, Laravel, and Flutter, with a strong focus on delivering seamless and intuitive user experiences (UI/UX). Possesses a proven track record of blending modern design trends with efficient and robust technical implementations. Currently expanding expertise in backend architecture and Artificial Intelligence (AI) integration to consistently deliver innovative and relevant technological solutions.
+> An adaptable Frontend and Mobile Developer with over 2 years of experience in building high-quality web and mobile applications. Proficient in frameworks such as Nuxt.js, React, Laravel, and Flutter, with a strong focus on delivering seamless and intuitive user experiences (UI/UX). Possesses a proven track record of blending modern design trends with efficient and robust technical implementations.
 
 ---
 
@@ -14,6 +14,23 @@
 | Developing and maintaining applications and websites for a hospital. | Available for web and mobile development, including admin dashboards, company profiles, and API integrations. |
 | **🧠 AI/ML Integration** | **🌱 Deep Diving** |
 | Exploring AI and Machine Learning integrations to keep pace with current technological advancements. | Currently delving into optimal frameworks for robust system architectures and backend integrations. |
+
+---
+
+### 📫 Let's Connect
+
+<div align="center">
+  <!-- GANTI URL HREF DI BAWAH DENGAN LINK WEB PORTFOLIO ASLI ANDA -->
+  <a href="https://taufiqrhmd.my.id" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamad-taufiq-rahmadi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:taufiqrhmd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 ---
 
@@ -54,18 +71,6 @@
   </picture>
 </div>
 
----
-
-### 📫 Let's Connect
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohamad-taufiq-rahmadi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:taufiqrhmd@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  
-  <br><br>
   <p><i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i></p>
 </div>
