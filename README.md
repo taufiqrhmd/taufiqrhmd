@@ -2,7 +2,8 @@
 
 # 👨‍💻 Hi there, I'm Mohamad Taufiq Rahmadi
 
-> **23-year-old Frontend & Full-Stack Engineer** with 2.5+ years of experience building seamless, pixel-perfect web and mobile applications. Currently engineering scalable solutions in the **healthcare sector** while actively taking on exciting freelance projects.
+> **23 Y.O | Frontend Engineer** <br>
+> An adaptable Frontend and Mobile Developer with over 2 years of experience in building high-quality web and mobile applications. Proficient in frameworks such as Nuxt.js, React, Laravel, and Flutter, with a strong focus on delivering seamless and intuitive user experiences (UI/UX). Possesses a proven track record of blending modern design trends with efficient and robust technical implementations. Currently expanding expertise in backend architecture and Artificial Intelligence (AI) integration to consistently deliver innovative and relevant technological solutions.
 
 ---
 
@@ -10,9 +11,9 @@
 
 | 🏢 Day Job | 💼 Freelancing |
 | :--- | :--- |
-| Architecting and maintaining production-grade software solutions in a fast-paced healthcare environment. | Available for web and mobile development—specializing in dashboards, landing pages, and API integrations. |
+| Developing and maintaining applications and websites for a hospital. | Available for web and mobile development, including admin dashboards, company profiles, and API integrations. |
 | **🧠 AI/ML Integration** | **🌱 Deep Diving** |
-| Exploring ways to bridge machine learning demonstrations and intelligent data features with modern frontend systems. | Advanced backend design patterns, modern database optimization, and high-fidelity UI animations with GSAP. |
+| Exploring AI and Machine Learning integrations to keep pace with current technological advancements. | Currently delving into optimal frameworks for robust system architectures and backend integrations. |
 
 ---
 
