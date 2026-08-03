@@ -45,16 +45,19 @@
 ### 🛠️ Technical Arsenal
 
 **🎨 Frontend & Mobile Development** <br>
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,vue,nuxt,react,next,dart,flutter&theme=dark" alt="Frontend & Mobile" />
-</a>
+</a> 
 
 **⚙️ Backend & Databases** <br>
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=php,laravel,supabase,mysql,postgres&theme=dark" alt="Backend & DB" />
 </a>
 
 **🔧 Tools & Ecosystem** <br>
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=py,figma,git,github,discord&theme=dark" alt="Tools" />
 </a>
