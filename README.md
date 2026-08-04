@@ -77,6 +77,15 @@
 
 <br>
 
+<!-- GitHub Streak Section -->
+<div align="center">
+  <a href="https://github.com/taufiqrhmd">
+    <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=taufiqrhmd&theme=tokyonight&hide_border=true" alt="Taufiq's GitHub Streak" />
+  </a>
+</div>
+
+<br>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taufiqrhmd/taufiqrhmd/output/github-contribution-grid-snake-dark.svg">
