@@ -42,7 +42,7 @@
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Developer Toolkit
 
 **🎨 Frontend & Mobile Development** <br>
 
