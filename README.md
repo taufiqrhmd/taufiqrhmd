@@ -1,4 +1,3 @@
-<!-- Banner & Header Section (Center) -->
 <div align="center">
   <img src="./assets/banner.png" width="100%" alt="Mohamad Taufiq Rahmadi - Banner" />
 
@@ -10,7 +9,6 @@
 
   <br>
 
-  <!-- Connect Badges -->
   <a href="https://taufiqrhmd.my.id" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
   </a>
