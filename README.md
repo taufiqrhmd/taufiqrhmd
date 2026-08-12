@@ -69,7 +69,7 @@
     <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=taufiqrhmd&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Taufiq's GitHub Stats" />
   </a>
   <a href="https://github.com/taufiqrhmd">
-    <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=taufiqrhmd&theme=tokyonight&hide_border=true" alt="Taufiq's GitHub Streak" />
+    <img height="165" src="https://streak-stats.demolab.com/?user=taufiqrhmd&theme=tokyonight&hide_border=true" alt="Taufiq's GitHub Streak" />
   </a>
 </div>
 
