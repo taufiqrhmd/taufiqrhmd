@@ -66,10 +66,10 @@
 
 <div align="center">
   <a href="https://github.com/taufiqrhmd">
-    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=taufiqrhmd&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Taufiq's GitHub Stats" />
+    <img src="https://readme-skill-api.vercel.app/api/stats?user=taufiqrhmd&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&hide_rank=false&hide=contributions&v=2" alt="taufiqrhmd's GitHub Stats" />
   </a>
   <a href="https://github.com/taufiqrhmd">
-    <img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=taufiqrhmd&theme=tokyonight&hide_border=true" alt="Taufiq's GitHub Streak" />
+    <img src="https://readme-skill-api.vercel.app/api/streaks?user=taufiqrhmd&theme=tokyonight&hide_border=true&v=3" alt="taufiqrhmd's GitHub Streaks" />
   </a>
 </div>
 
@@ -77,7 +77,7 @@
 
 <div align="center">
   <a href="https://github.com/taufiqrhmd">
-    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=taufiqrhmd&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide_langs_repository=template" alt="All Languages" />
+    <img src="https://readme-skill-api.vercel.app/api/top-langs?user=taufiqrhmd&theme=tokyonight&hide_border=true&hide_title=false&include_private=false&langs_count=6&v=2" alt="Top Languages" />
   </a>
 </div>
 
