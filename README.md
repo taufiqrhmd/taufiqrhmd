@@ -66,10 +66,10 @@
 
 <div align="center">
   <a href="https://github.com/taufiqrhmd">
-    <img src="https://readme-skill-api.vercel.app/api/stats?user=taufiqrhmd&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&hide_rank=false&hide=contributions&v=2" alt="taufiqrhmd's GitHub Stats" />
+    <img src="https://readme-skill-api.vercel.app/api/stats?user=taufiqrhmd&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&hide_rank=false&hide=contributions&v=3" alt="taufiqrhmd's GitHub Stats" />
   </a>
   <a href="https://github.com/taufiqrhmd">
-    <img src="https://readme-skill-api.vercel.app/api/streaks?user=taufiqrhmd&theme=tokyonight&hide_border=true&v=3" alt="taufiqrhmd's GitHub Streaks" />
+    <img src="https://readme-skill-api.vercel.app/api/streaks?user=taufiqrhmd&theme=tokyonight&hide_border=true&v=4" alt="taufiqrhmd's GitHub Streaks" />
   </a>
 </div>
 
