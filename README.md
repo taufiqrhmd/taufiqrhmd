@@ -4,7 +4,7 @@
   <h1>👨‍💻 Hi there, I'm Mohamad Taufiq Rahmadi</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Frontend+Engineer;Mobile+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Frontend+Engineer;Mobile+Developer;Website+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
   </a>
 
   <br>
