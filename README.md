@@ -52,11 +52,7 @@
 
 <div align="center">
   <a href="#">
-    <picture>
-      <source media="(max-width: 768px)" srcset="https://readme-skill-api.vercel.app/api/skills?icons=html5,css,tailwindcss,javascript,typescript,vue,nuxt,react,nextjs,dart,flutter,php,laravel,supabase,mysql,postgresql,python,git,github&frame=hexagon&theme=tokyonight&itemSize=60&iconSize=35&perLine=5&v=7">
-      <source media="(min-width: 769px)" srcset="https://readme-skill-api.vercel.app/api/skills?icons=html5,css,tailwindcss,javascript,typescript,vue,nuxt,react,nextjs,dart,flutter,php,laravel,supabase,mysql,postgresql,python,git,github&frame=hexagon&theme=tokyonight&itemSize=60&iconSize=35&perLine=10&v=7">
-      <img src="https://readme-skill-api.vercel.app/api/skills?icons=html5,css,tailwindcss,javascript,typescript,vue,nuxt,react,nextjs,dart,flutter,php,laravel,supabase,mysql,postgresql,python,git,github&frame=hexagon&theme=tokyonight&itemSize=60&iconSize=35&perLine=10&v=7" alt="Tech Stack" />
-    </picture>
+    <img src="https://readme-skill-api.vercel.app/api/skills?icons=html5,css,tailwindcss,javascript,typescript,vue,nuxt,react,nextjs,dart,flutter,php,laravel,supabase,mysql,postgresql,python,git,github&frame=hexagon&theme=tokyonight&itemSize=60&iconSize=35&perLine=10&v=7" alt="Tech Stack" />
   </a>
 </div>
 
