@@ -5,7 +5,7 @@
     <img src="./assets/banner_website.webp" width="100%" alt="Mohamad Taufiq Rahmadi - Banner" />
   </picture>
 
-  <h1>👨‍💻 Hi there, I'm Mohamad Taufiq Rahmadi</h1>
+  <h1>👨‍💻 Hi there, I'm Taufiq Rahmadi</h1>
 
   <a href="https://git.io/typing-svg">
     <picture>
