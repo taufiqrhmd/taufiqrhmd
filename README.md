@@ -52,7 +52,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://readme-skill-api.vercel.app/api/skills?icons=html5,css,tailwindcss,javascript,typescript,vue,nuxt,react,nextjs,dart,flutter,php,laravel,supabase,mysql,postgresql,python,git,github&frame=hexagon&theme=tokyonight&itemSize=60&iconSize=35&perLine=10&v=7" alt="Tech Stack" />
+    <img src="https://githubreadme.miracle.web.id/api/skills?icons=html5,css,tailwindcss,javascript,typescript,vue,nuxt,react,nextjs,dart,flutter,php,laravel,supabase,mysql,postgresql,python,git,github&frame=hexagon&theme=tokyonight&itemSize=60&iconSize=35&perLine=10&v=7" alt="Tech Stack" />
   </a>
 </div>
 
@@ -62,10 +62,10 @@
 
 <div align="center">
   <a href="https://github.com/taufiqrhmd">
-    <img src="https://readme-skill-api.vercel.app/api/stats?user=taufiqrhmd&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&hide_rank=false&hide=contributions&v=3" alt="taufiqrhmd's GitHub Stats" />
+    <img src="https://githubreadme.miracle.web.id/api/stats?user=taufiqrhmd&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&hide_rank=false&hide=contributions&v=3" alt="taufiqrhmd's GitHub Stats" />
   </a>
   <a href="https://github.com/taufiqrhmd">
-    <img src="https://readme-skill-api.vercel.app/api/streaks?user=taufiqrhmd&theme=tokyonight&hide_border=true&v=4" alt="taufiqrhmd's GitHub Streaks" />
+    <img src="https://githubreadme.miracle.web.id/api/streaks?user=taufiqrhmd&theme=tokyonight&hide_border=true&v=4" alt="taufiqrhmd's GitHub Streaks" />
   </a>
 </div>
 
@@ -73,7 +73,7 @@
 
 <div align="center">
   <a href="https://github.com/taufiqrhmd">
-    <img src="https://readme-skill-api.vercel.app/api/top-langs?user=taufiqrhmd&theme=tokyonight&hide_border=true&hide_title=false&include_private=false&langs_count=6&v=2" alt="Top Languages" />
+    <img src="https://githubreadme.miracle.web.id/api/top-langs?user=taufiqrhmd&theme=tokyonight&hide_border=true&hide_title=false&include_private=false&langs_count=6&v=2" alt="Top Languages" />
   </a>
 </div>
 
